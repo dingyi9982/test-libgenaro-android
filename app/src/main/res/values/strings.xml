@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TestGenaro</string>
+    <string name="title_down">Download</string>
+    <string name="title_up">Upload</string>
+</resources>
